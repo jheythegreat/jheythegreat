@@ -5,7 +5,7 @@
 - 💬 Ask me about Python, JavaScript and HTML5.
 - 🔭 I'm not currently working on any projects.
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/jheythegreat?tab=repositories)**.
-- 🌱 I’m currently learning Kotlin and Android Studio.
+- 🌱 I'm not learning any programming languages currently.
 
 ## 💻 Languages and Tools:
 <p align="center">
