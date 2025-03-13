@@ -1,8 +1,7 @@
 <h1 align="center">Hi there! <img src="https://i.imgur.com/ILVRpZm.gif" width="30px"></h1>
 
 ## 👤 About Me
-- 👯 I’m looking to collaborate on projects.
-- 💬 Ask me about Python, JavaScript and HTML5.
+- 👯 I'm not currently looking to collaborate on projects.
 - 🔭 I'm not currently working on any projects.
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/jheythegreat?tab=repositories)**.
 - 🌱 I'm currently learning C.
@@ -10,7 +9,7 @@
 ## 💻 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,ruby,rails,kotlin,bash,php,androidstudio&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,py,vscode,kali&perline=11" />
   </a>
 </p>
 
