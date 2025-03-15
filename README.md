@@ -1,6 +1,10 @@
-<h1 align="center">Hi there! <img src="https://i.imgur.com/ILVRpZm.gif" width="30px"></h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-## 👤 About me.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;" />
+</h1>
+
+### 👤 About me.
 - 👯 I'm not currently looking to collaborate on projects.
 - 🔭 I'm not currently working on any projects.
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/jheythegreat?tab=repositories)**.
