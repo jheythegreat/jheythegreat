@@ -29,7 +29,7 @@
 <h3 align="center">💻 Languages and Tools</h3> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,vscode,kali&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,py,js,react,nextjs,html,css,vscode,kali&perline=11" />
   </a>
 </p>
 
