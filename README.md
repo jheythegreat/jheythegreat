@@ -14,7 +14,7 @@
 
 🔭 I'm not currently working on any **projects**.
 
-🌱 I'm currently learning **C**.
+🌱 I'm currently learning **C++**.
 
  </div>
 
